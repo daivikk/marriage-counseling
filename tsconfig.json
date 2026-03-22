@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     // ... other options ...
-    "jsx": "preserve", // or "react" depending on your setup
+    "jsx": "react-jsx", // or "react" depending on your setup
     "allowJs": true, // Optional: if you want to allow JavaScript files
     "strict": true // Optional: enables strict type-checking options
     ,
@@ -29,7 +29,8 @@
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    ".next/dev/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"
