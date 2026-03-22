@@ -145,18 +145,6 @@ export default function Navigation() {
                 )}
               </motion.div>
             ))}
-            <motion.div
-              initial={{ opacity: 0, y: -10 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.3, delay: 0.4 }}
-            >
-              <Link 
-                href="/book" 
-                className="px-4 py-2 rounded-full bg-[#17153E] text-white hover:bg-[#0e0d2e] transition-colors"
-              >
-                Get Started
-              </Link>
-            </motion.div>
           </div>
 
           {/* Mobile menu button */}
@@ -207,7 +195,6 @@ export default function Navigation() {
                 { name: 'Home', href: '/' },
                 { name: 'Marriage Therapists', href: '/book' },
                 { name: 'Co-Founders', href: '/co-founders' },
-                { name: 'Get Started', href: '/book' },
               ].map((item, index) => (
                 <motion.div
                   key={item.name}

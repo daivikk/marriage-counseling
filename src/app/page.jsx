@@ -182,6 +182,9 @@ export default function Home() {
       {/* Co-Founders Section */}
       <AnimatedSection className="py-20 bg-gradient-to-b from-[#EDE8F5] to-[#F5F0FC]">
         <div className="max-w-5xl mx-auto px-4">
+          <h2 className="text-4xl md:text-[2.5rem] font-serif italic text-[#17153E] text-center leading-tight mb-12 md:mb-14">
+            Co-Founders
+          </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
             <motion.div
               className="bg-white/70 backdrop-blur-sm rounded-2xl p-8 text-center shadow-sm"
@@ -197,9 +200,9 @@ export default function Home() {
                 />
               </div>
               <h3 className="text-2xl font-semibold text-[#17153E]">Dr. Eric Gutgarts</h3>
-              <p className="text-[#17153E]/60 text-sm mt-2 leading-relaxed">
+              <p className="text-[#17153E] text-sm mt-2 leading-relaxed">
                 Co-Founder,<br />
-                Clinical Psychologist,<br />
+                Clinical Director,<br />
                 Adjunct Professor
               </p>
               <Link
@@ -225,7 +228,7 @@ export default function Home() {
                 />
               </div>
               <h3 className="text-2xl font-semibold text-[#17153E]">Dr. Mark Louie</h3>
-              <p className="text-[#17153E]/60 text-sm mt-2 leading-relaxed">
+              <p className="text-[#17153E] text-sm mt-2 leading-relaxed">
                 Co-Founder,<br />
                 Director of Operations,<br />
                 Mental Performance Consultant
