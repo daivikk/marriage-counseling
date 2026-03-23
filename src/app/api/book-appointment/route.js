@@ -30,7 +30,7 @@ export async function POST(request) {
         
         <h3 style="color: #503622; margin-top: 20px;">Appointment Details</h3>
         <ul style="list-style-type: none; padding-left: 0;">
-          <li><strong>Therapist:</strong> ${therapistName} (ID: ${therapistId})</li>
+          <li><strong>Counselor:</strong> ${therapistName} (ID: ${therapistId})</li>
           <li><strong>Date:</strong> ${appointmentDate}</li>
           <li><strong>Time:</strong> ${appointmentTime}</li>
         </ul>

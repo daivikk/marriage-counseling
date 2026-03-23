@@ -273,15 +273,15 @@ export default function Home() {
         </div>
       </AnimatedSection>
 
-      {/* Therapists Section */}
+      {/* Counselors Section */}
       <AnimatedSection className="py-20">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-14">
             <h2 className="text-4xl font-serif italic text-[#17153E] mb-4">
-              Experienced Marriage Therapists to<br />Help Your Relationship Thrive
+              Experienced Marriage Counselors to<br />Help Your Relationship Thrive
             </h2>
             <p className="text-[#17153E] max-w-xl mx-auto">
-              Meet Our Marriage Therapists
+              Meet Our Marriage Counselors
             </p>
           </div>
           <motion.div

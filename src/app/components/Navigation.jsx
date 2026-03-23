@@ -84,7 +84,7 @@ export default function Navigation() {
 
   const navItems = [
     { name: 'Home', href: '/' },
-    { name: 'Marriage Therapists', href: '/book' },
+    { name: 'Marriage Counselors', href: '/book' },
     { name: 'Co-Founders', href: '/co-founders' },
   ];
 
@@ -193,7 +193,7 @@ export default function Navigation() {
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white">
               {[
                 { name: 'Home', href: '/' },
-                { name: 'Marriage Therapists', href: '/book' },
+                { name: 'Marriage Counselors', href: '/book' },
                 { name: 'Co-Founders', href: '/co-founders' },
               ].map((item, index) => (
                 <motion.div
