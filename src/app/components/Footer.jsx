@@ -37,10 +37,10 @@ export default function Footer() {
           <div className="space-y-4">
             <h4 className="font-semibold text-[#17153E]">Contact</h4>
             <p className="text-sm text-[#17153E]/80">
-              Email: admin@eqtherapy.co
+              Email: eric.lmhc@gmail.com
             </p>
             <p className="text-sm text-[#17153E]/80">
-              Locations: NY, CT, and CO
+              Locations: NY, CT, CO, and PA
             </p>
             <Link 
               href="/book" 
@@ -51,7 +51,7 @@ export default function Footer() {
           </div>
 
           <div className="flex justify-start md:justify-end pt-1">
-            <Link href="/" className="relative block w-28 h-28 md:w-36 md:h-36 shrink-0" aria-label="EQ Therapy home">
+            <Link href="/" className="relative block w-28 h-28 md:w-36 md:h-36 shrink-0" aria-label="Marriage Counseling home">
               <Image
                 src={logoImage}
                 alt=""

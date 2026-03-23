@@ -58,7 +58,7 @@ const therapists = [
     image: elizabethImage,
     bio: "Growing up in an international community, I developed a focus on the collaboration and exploration of an individual's personal background. I have a strong interest in working with those navigating life transitions, relationship challenges, and emotional regulation. In my clinical work, I have a client-centered approach in understanding the therapeutic relationship as a dynamic interaction, incorporating elements of psychodynamic counseling and mindfulness techniques to help clients develop greater self-awareness and emotional resilience. I'm passionate about fostering a supportive space where clients feel empowered to explore their experiences and grow.",
     // specialties: ['Life Transitions', 'Relationship Challenges', 'Emotional Regulation', 'Mindfulness'],
-    rate: 'Insurance Rate: $150',
+    rate: '$150 per session',
     availableFrom: 'May 2025',
     availability: {
       monday: ['1:00 PM', '2:00 PM', '3:00 PM', '4:00 PM', '5:00 PM', '6:00 PM', '7:00 PM'],
@@ -76,7 +76,7 @@ const therapists = [
     image: gianellaImage,
     bio: "I am dedicated to helping adolescents, young adults, and couples navigate anxiety, attachment, and relationship challenges. My approach focuses on identifying and reshaping unhelpful thought patterns and behaviors that impact emotional well-being. I believe in a collaborative and supportive approach, creating a space where clients feel heard, empowered, and equipped with the tools to build resilience and meaningful connections. My passion lies in helping individuals develop self-awareness, strengthen their relationships, and grow into their best selves. If you're interested in working with me, please send an appointment request.",
     // specialties: ['Anxiety', 'Attachment Issues', 'Relationship Challenges', 'Young Adults'],
-    rate: 'Insurance Rate: $150',
+    rate: '$150 per session',
     availableFrom: 'May 2025',
     availability: {
       monday: ['9:00 AM', '10:00 AM', '1:00 PM', '2:00 PM', '3:00 PM', '4:00 PM', '5:00 PM', '6:00 PM', '7:00 PM'],
@@ -92,7 +92,7 @@ const therapists = [
     image: jordanImage,
     bio: "I am passionate about providing client-centered care and creating an inclusive environment for individuals from diverse backgrounds. I'm open to working with individuals from all walks of life, and have experience working with adults, college students, adolescents, children, LGBTQ+ individuals, and people with disabilities. In my clinical approach, I value collaboration, empathy, and self-exploration throughout the therapeutic process. I take a person-centered and narrative approach to counseling and am flexible in integrating other orientations to support each client's unique needs.",
     // specialties: ['LGBTQ+', 'College Students', 'Person-Centered Therapy', 'Narrative Therapy'],
-    rate: 'Insurance Rate: $150',
+    rate: '$150 per session',
     availableFrom: 'May 2025',
     availability: {
       monday: ['4:00 PM', '5:00 PM', '6:00 PM', '7:00 PM', '8:00 PM'],
@@ -107,7 +107,7 @@ const therapists = [
     image: stevenImage,
     bio: "My approach is to help individuals foster and discover their best selves. Together, we will address how to cope with stressors in everyday life in a judgment-free space. We will work on processing, adapting, or improving during life transitions. Therapy is a space that can bring forth a variety of personal successes when working in a goal-oriented environment. I am devoted to helping individuals develop the tools they feel they need to succeed. I specialize in evidence-based therapies including cognitive behavioral therapy (CBT) and solutions-oriented Therapy (SOT). I can alter my therapeutic approach depending on clients' needs. In working together, we will measure personal development, achievements, and progress. Take that leap forward.",
     // specialties: ['CBT', 'Solutions-Oriented Therapy', 'Life Transitions', 'Personal Development'],
-    rate: 'Insurance Rate: $150',
+    rate: '$150 per session',
     availableFrom: 'May 2025',
     availability: {
       monday: ['3:00 PM', '4:00 PM', '5:00 PM', '6:00 PM', '7:00 PM', '8:00 PM'],
@@ -122,7 +122,7 @@ const therapists = [
     image: haydenImage,
     bio: "My therapeutic approach blends Cognitive Behavioral Therapy (CBT) and psychodynamic principles to encourage self-awareness, challenge unhelpful thought patterns, and develop effective coping strategies. I understand that every person is unique so I work collaboratively with clients to develop a strategy that supports their individualized goals. My work is rooted in promorting self-compassion, resilience, and self-awareness, empowering clients to break free from past patterns and move forward with confidence. I believe that healing is not linear, and together we will celebrate progress while addressing challenges with curiosity and care. Whether you're seeking support to heal from trauma or guidance on building healthier relationships, I'm here to help you create lasting change.",
     // specialties: ['CBT', 'Psychodynamic', 'Trauma Healing', 'Self-Compassion'],
-    rate: 'Insurance Rate: $150',
+    rate: '$150 per session',
     availableFrom: 'May 2025',
     availability: {
       monday: ['1:00 PM', '2:00 PM', '3:00 PM', '4:00 PM', '5:00 PM', '6:00 PM', '7:00 PM'],
@@ -168,7 +168,7 @@ const therapists = [
     image: willImage,
     bio: "As a therapist, It is my goal to help individuals navigate emotional challenges and relational patterns that impact personal and professional growth. Drawing from an integrative approach, I combine humanistic, psychodynamic, and cognitive-behavioral therapy (CBT) techniques to provide a comprehensive therapeutic experience. Sports psychology is a specialized clinical interest, based on diverse experiences working with athletic populations throughout my career. I believe in the power of authentic, empathetic relationships to foster healing and self-awareness. By exploring unconscious patterns and reframing limiting beliefs, I work collaboratively with clients to facilitate meaningful change and personal development.",
     // specialties: ['Integrative Therapy', 'Sports Psychology', 'CBT', 'Psychodynamic'],
-    rate: 'Insurance Rate: $150',
+    rate: '$150 per session',
     availableFrom: 'May 2025',
     availability: {
       monday: ['9:00 AM', '10:00 AM', '11:00 AM', '12:00 PM', '1:00 PM', '2:00 PM', '3:00 PM', '4:00 PM', '5:00 PM', '6:00 PM', '7:00 PM'],
