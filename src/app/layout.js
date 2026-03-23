@@ -25,16 +25,19 @@ const instrumentSans = Instrument_Sans({
 
 // For Interspace, we need to use a CSS import since it's not in the standard Google Fonts offered by next/font
 export const metadata = {
-  title: "EQ Therapy",
-  description: "Emotional Intelligence Therapy",
+  title: "Marriage Counseling",
+  description:
+    "Virtual marriage counseling focused on accountability, conflict resolution, and stronger relationships.",
   openGraph: {
-    title: "EQ Therapy",
-    description: "Emotional Intelligence Therapy",
+    title: "Marriage Counseling",
+    description:
+      "Virtual marriage counseling focused on accountability, conflict resolution, and stronger relationships.",
   },
   twitter: {
     card: "summary",
-    title: "EQ Therapy",
-    description: "Emotional Intelligence Therapy",
+    title: "Marriage Counseling",
+    description:
+      "Virtual marriage counseling focused on accountability, conflict resolution, and stronger relationships.",
   },
 };
 
