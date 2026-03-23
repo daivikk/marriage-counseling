@@ -25,6 +25,10 @@ const instrumentSans = Instrument_Sans({
 
 // For Interspace, we need to use a CSS import since it's not in the standard Google Fonts offered by next/font
 export const metadata = {
+  icons: {
+    icon: [{ url: "/favicon.ico", type: "image/x-icon", sizes: "any" }],
+    shortcut: "/favicon.ico",
+  },
   title: "Marriage Counseling",
   description:
     "Virtual marriage counseling focused on accountability, conflict resolution, and stronger relationships.",
